@@ -62,9 +62,8 @@ An iOS weather application built using Swift and RESTful APIs.
 
 ## Contact
 
-**Portfolio:** (Add your portfolio link here)  
-**LinkedIn:** (Add your LinkedIn URL)  
-**Email:** (Optional)
+**Portfolio:** [(Add your portfolio link here)  ](https://alex-udodik.gt.tc/)
+**LinkedIn:** [(Add your LinkedIn URL) ](https://www.linkedin.com/in/alex-udodik/)
 
 ---
 
