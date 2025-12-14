@@ -26,9 +26,9 @@ My work spans frontend, backend, mobile, and small business websites, with an em
 **Frontend:** HTML5, CSS3, JavaScript  
 **Mobile / Flutter:** Dart  
 **Backend / API:** Node.js, Python  
-**Databases:** MongoDB, Redis  
+**Databases:** MongoDB, SQL, Redis  
 **CMS:** WordPress, Elementor  
-**Other:** C#, Swift, REST APIs
+**Other:** C#, Swift, REST APIs, Docker/Kubernetes
 
 ---
 
