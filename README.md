@@ -37,15 +37,25 @@ Website project designed for a modern dental practice, focusing on clear service
 
 **Tech:** Wordpress · Elementor
 
+
+
+
 ### Bonsai Business Landing Page  
 A modern business landing page built with HTML and CSS, designed to clearly present services, build trust, and drive user engagement through a responsive, lightweight layout.  
 
 **Tech:** HTML · CSS
 
+
+
+
 ### Earthquake Monitor App  
 A real-time earthquake visualization app built with Flutter and Dart, displaying recent seismic activity on an interactive map.  
 
 **Tech:** Flutter · Dart · REST APIs
+
+
+
+
 ---
 
 ## Other Notable Work
