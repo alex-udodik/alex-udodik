@@ -21,8 +21,8 @@ My work spans frontend, backend, mobile, and small business websites, with an em
 
 ## Technologies
 
+**Frontend:** HTML5, CSS3, JavaScript 
 **CMS:** WordPress, Elementor  
-**Frontend:** HTML5, CSS3, JavaScript  
 **Mobile / Flutter:** Dart  
 **Backend / API:** Node.js, Python  
 **Databases:** MongoDB, SQL, Redis  
