@@ -21,37 +21,35 @@ My work spans frontend, backend, mobile, and small business websites, with an em
 
 ## Technologies
 
+**CMS:** WordPress, Elementor  
 **Frontend:** HTML5, CSS3, JavaScript  
 **Mobile / Flutter:** Dart  
 **Backend / API:** Node.js, Python  
 **Databases:** MongoDB, SQL, Redis  
-**CMS:** WordPress, Elementor  
 **Other:** C#, Swift, REST APIs, Docker/Kubernetes
 
 ---
 
 ## Featured Projects
 
+### Dental Seattle  
+Website project designed for a modern dental practice, focusing on clear service presentation, intuitive navigation, and mobile responsiveness.
+
+**Tech:** Wordpress · Elementor
+
+### Bonsai Business Landing Page  
+A modern business landing page built with HTML and CSS, designed to clearly present services, build trust, and drive user engagement through a responsive, lightweight layout.  
+
+**Tech:** HTML · CSS
+
 ### Earthquake Monitor App  
 A real-time earthquake visualization app built with Flutter and Dart, displaying recent seismic activity on an interactive map.  
 
 **Tech:** Flutter · Dart · REST APIs
-
-### PUBG Stats Discord Bot  
-A bot that retrieves and presents PUBG player statistics directly in Discord.  
-
-**Tech:** JavaScript · Discord API
-
-### iOS Weather App  
-An iOS weather application built using Swift and RESTful APIs.  
-
-**Tech:** Swift · UIKit · REST APIs
-
 ---
 
 ## Other Notable Work
 
-- Bonsai Business Landing Page – Lightweight HTML/CSS business showcase  
 - TEN Construction Website Concept – WordPress + Elementor layout for a construction company  
 - Week3/Lobe Tour Project – Static site built with HTML  
 - Additional repositories include utilities, bots, and UI experiments
