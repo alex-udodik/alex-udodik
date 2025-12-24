@@ -61,7 +61,7 @@ A real-time earthquake visualization app built with Flutter and Dart, displaying
 ## Other Notable Work
 
 - TEN Construction Website Concept – WordPress + Elementor layout for a construction company  
-- Week3/Lobe Tour Project – Static site built with HTML  
+- Lobe Tour Project – Static site built with HTML  
 - PUBG Stats Discord Bot - A bot that retrieves and presents PUBG player statistics directly in Discord.
 
 ---
