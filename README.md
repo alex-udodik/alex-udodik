@@ -68,8 +68,8 @@ A real-time earthquake visualization app built with Flutter and Dart, displaying
 
 ## Contact
 
-**Portfolio:** [(Add your portfolio link here)  ](https://alex-udodik.gt.tc/)
-**LinkedIn:** [(Add your LinkedIn URL) ](https://www.linkedin.com/in/alex-udodik/)
+**Portfolio:** [(alex-udodik.gt.tc/)  ](https://alex-udodik.gt.tc/)
+**LinkedIn:** [(linkedin.com/in/alex-udodik/) ](https://www.linkedin.com/in/alex-udodik/)
 
 ---
 
