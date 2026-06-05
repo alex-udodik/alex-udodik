@@ -16,19 +16,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-udodik/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-udodik)
+
 </td>
 <td valign="top">
 
 **🧰 Technologies**
 
 **Frontend**
-![Frontend](https://skillicons.dev/icons?i=html,css,js,wordpress)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress)
 
 **Mobile**
 ![Mobile](https://skillicons.dev/icons?i=flutter,dart,swift)
 
 **Backend**
-![Backend](https://skillicons.dev/icons?i=nodejs,python,cs)
+![Backend](https://skillicons.dev/icons?i=nodejs,python,cs,firebase)
 
 **Data**
 ![Data](https://skillicons.dev/icons?i=postgres,mongodb,redis)
