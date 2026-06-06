@@ -9,16 +9,6 @@
 <table>
 <tr>
 <td valign="top" width="220">
-
-**🔗 Connect**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-94C947?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alex-udodik.gt.tc/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-udodik/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-udodik)
-
-</td>
 <td valign="top">
 
 **🧰 Technologies**
