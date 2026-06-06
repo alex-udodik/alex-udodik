@@ -8,7 +8,6 @@
 
 <table>
 <tr>
-<td valign="top" width="220">
 <td valign="top">
 
 **🧰 Technologies**
@@ -35,31 +34,3 @@
 </table>
 
 ---
-
-## 📌 Featured Projects
-
-### Dental Seattle
-Website for a modern dental practice — clear service layout, intuitive navigation, and mobile-first design.
-**Tech:** WordPress · Elementor
-
-### Bonsai Business Landing Page
-Lightweight responsive landing page focused on service clarity and user engagement.
-**Tech:** HTML · CSS
-
-### Earthquake Monitor App
-Real-time seismic visualizer that plots live earthquake activity on an interactive map.
-**Tech:** Flutter · Dart · REST APIs
-
----
-
-## 🗂️ Other Notable Work
-
-- **TEN Construction** – WordPress + Elementor concept for a construction company
-- **Lobe Tour** – Static site built with HTML
-- **PUBG Stats Discord Bot** – Retrieves and displays PUBG player stats directly in Discord
-
----
-
-## 📊 GitHub Stats
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-udodik&show_icons=true&theme=default)
