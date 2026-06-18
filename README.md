@@ -27,8 +27,6 @@
 **DevOps**
 ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes)
 
-<sub>Also: Elementor, REST APIs</sub>
-
 </td>
 </tr>
 </table>
